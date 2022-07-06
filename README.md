@@ -1,6 +1,6 @@
 # Whats This?
 
-This is a simple web application where users can post educational youtube links with the subject and its relevant grade. The goal of this project is to allow easier access for online lessons for students living in Sri Lanka during this hard time and with minimal distractions.
+[This](https://e-educationsearch.tech) is a simple web application where users can post educational youtube links with the subject and its relevant grade. The goal of this project is to allow easier access for online lessons for students living in Sri Lanka during this hard time and with minimal distractions.
 
 # Rules.
 
