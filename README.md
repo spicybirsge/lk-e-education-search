@@ -4,7 +4,7 @@
 
 # Rules.
 
-1. Only post links and subjects relevant to Sri Lankan Sylabus from grade 1 - 9. 
+1. Only post links and subjects relevant to Sri Lankan Sylabus from grade 1 - 13. Also make sure when posting that you have selected the correct grade. 
 2. If we think your post is not relevant we would remove it from our database.
 3. No trolls.
 4. If your not from Sri Lanka you are permitted to use but don't upload unless you are sure that this is relevant to Sri Lankan syllabus.
