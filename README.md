@@ -1,6 +1,6 @@
 # Whats This?
 
-This is a simple web application where users can post educational youtube links with the subject and its relevant grade. The goal of this project is to allow easier access for online lessons for students living in Sri Lanka during this hard time.
+This is a simple web application where users can post educational youtube links with the subject and its relevant grade. The goal of this project is to allow easier access for online lessons for students living in Sri Lanka during this hard time and with minimal distractions.
 
 # Rules.
 
@@ -8,6 +8,7 @@ This is a simple web application where users can post educational youtube links 
 2. If we think your post is not relevant we would remove it from our database.
 3. No trolls.
 4. If your not from Sri Lanka you are permitted to use but don't upload unless you are sure that this is relevant to Sri Lankan syllabus.
+5. Anyone from anywhere is allowed to contribute for this project.
 
 # Credits
 
