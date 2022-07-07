@@ -67,7 +67,7 @@
       </div>
     </nav>
     <br>
-    <button class="btn btn-outline-success" data-toggle="modal" data-target="#createmodal"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-plus" viewBox="0 0 16 16">
+    <button style="margin-bottom: 1%;" class="btn btn-outline-success" data-toggle="modal" data-target="#createmodal"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-plus" viewBox="0 0 16 16">
       <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"/>
     </svg>New educational video</button>    
 
@@ -124,9 +124,14 @@
 
       <% data.forEach(d => {%>
     
-        <div class="card" style="margin-top: 1%;">
+        <div class="card" style="border-top: none; border-left: none;">
+          <img class="img-fluid float-right" style="height: 150px; width: 200px;" src="https://img.youtube.com/vi/<%= d.youtube_id%>/0.jpg">
+         
           <div class="card-body">
+    
+              
             <h5 class="card-title"><%= d.subject %> </h5>
+            
             <h6 class="card-subtitle mb-2 text-muted">Grade: <%= d.grade%></h6>
         
             <p class="card-text">
@@ -134,14 +139,18 @@
             </p>
            
             <a href="/<%= d.ID%>" class="card-link">Watch Now</a>
+            
           </div>
+        </div>
+
         <%})%>
       <%} else {%>
 
         <h2 style="margin-top: 5%; color: white;">No Results :(</h2>
         <%}%>
-  </div>
-  </div>
+        <br><br><br><br>
+      </div>
+ 
 <script src="/scripts/script.js"></script>
 
 </body>   
